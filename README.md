@@ -16,6 +16,12 @@ In multi-UAV strike missions, assigning each UAV to an optimal target is a high-
 
 ## Results
 
+### BGA Simulation Output
+![BGA Results](results/BGA_result.png)
+
+### IGA Simulation Output
+![IGA Results](results/IGA_result.png)
+
 | Metric | BGA (Chapter 3) | IGA (Chapter 4) | Improvement |
 |---|---|---|---|
 | Nash Distance (NE) | 0.0120 | **0.0002** | ↓ 98.3% |
